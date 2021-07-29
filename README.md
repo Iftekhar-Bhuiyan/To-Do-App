@@ -1,6 +1,9 @@
 # to_do_app
 
-A new Flutter project.
+A Flutter project for practicing state management Provider..
+
+This project is practiced from The Complete 2020 Flutter Development Bootcamp with Dart by <b> Dr. Angela Yu </b>
+
 
 ## Getting Started
 
